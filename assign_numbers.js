@@ -115,4 +115,4 @@ function getRandom(set, exclude) {
 
 
 
-export {getRest, combineUnique, getRandom};
+export default {getRest, combineUnique, getRandom};
