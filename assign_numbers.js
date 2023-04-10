@@ -112,3 +112,7 @@ function getRandom(set, exclude) {
         }
     }
 }
+
+
+
+export {getRest, combineUnique, getRandom};
