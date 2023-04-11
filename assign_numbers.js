@@ -112,3 +112,7 @@ function getRandom(set, exclude) {
         }
     }
 }
+
+
+// To check that the "import" thru eval() is performed.
+console.log("assign_numbers.js");
